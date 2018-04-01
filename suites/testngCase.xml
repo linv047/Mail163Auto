@@ -10,4 +10,9 @@
       </class> <!-- testScripts.TestMailLogin -->
     </classes>
   </test> <!-- DriverFrameWork -->
+  <listeners>
+    <!-- class-name的值填写为时间创建的监听器的路径 -->
+    <listener class-name="util.ExtentTestNGIReporterListener"></listener>
+  </listeners>
 </suite> <!-- Default Suite -->
+

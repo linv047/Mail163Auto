@@ -21,3 +21,11 @@ test base
 获取的定位类型： xpath	 定位表达式： //input[@name='email']
 获取的定位类型： xpath	 定位表达式： //input[@name='password']
 获取的定位类型： id	 定位表达式： dologin
+################### Start test #############
+获取的定位类型： xpath	 定位表达式： //input[@name='email']
+获取的定位类型： xpath	 定位表达式： //input[@name='password']
+获取的定位类型： id	 定位表达式： dologin
+################### Start test #############
+获取的定位类型： xpath	 定位表达式： //input[@name='email']
+获取的定位类型： xpath	 定位表达式： //input[@name='password']
+获取的定位类型： id	 定位表达式： dologin
