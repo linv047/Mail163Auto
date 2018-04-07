@@ -20,7 +20,7 @@ public class LoggerControler {
             Properties pros = new Properties();
             try {
               String path = System.getProperty("user.dir");
-              String filePath = path + "\\log4j.properties";
+              String filePath = path + System.getProperty("file.separator")+"log4j.properties";
                 InputStream input = new FileInputStream(filePath);
                 pros.load(input);
             }catch (IOException e){
